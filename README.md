@@ -1,16 +1,7 @@
 # tarefa2
 
-A new Flutter project.
+Atividade 2 da disciplina de Dispositivos Móveis: projeto em Flutter para aplicar conceitos de Navigation e Route entre telas, bem como transferência de dados.
 
-## Getting Started
+## App preview
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Demo](assets/tarefa2.gif)
